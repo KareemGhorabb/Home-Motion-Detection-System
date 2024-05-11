@@ -20,6 +20,11 @@ The Home Motion Detection System is designed to detect motion in a home environm
 
 ![The Circuit Design](/imgs/circuit.png)
 
+## Prototype itself
+
+![The Circuit Design](/imgs/.png)
+
+
 ## Contributing:
 
 Contributions to enhance the functionality, add new features, or improve documentation are welcomed. Feel free to fork this repository, make improvements, and submit pull requests.
