@@ -22,7 +22,7 @@ The Home Motion Detection System is designed to detect motion in a home environm
 
 ## Prototype itself
 
-![The Circuit Design](/imgs/.png)
+![The Circuit Design](/imgs/IMG_20240408_185543-removebg-preview.png)
 
 
 ## Contributing:
